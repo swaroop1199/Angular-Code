@@ -1,0 +1,32 @@
+Angular CLI Commands:
+
+Installing angular first time: 								                            npm install -g @angular/cli@latest
+checking angular version: 								                                ng version
+installing node.js first time: 								                            npm install
+checking npm version: 									                                  npm -v or npm --version
+install angular for created folder: 							                        ng new {name of project} --no-strict ~ ng new development --no-strict 
+create extra component with CLI: 							                            ng generate component {name for component} ~ ng generate component server ~ ng g c server
+To start development server following command will help to initialize: 	  ng serve 
+To close development server following command will help: 				          ctrl + c
+development live server will visible through: 						                Localhost:4200
+To install Bootstrap css use following command: 					                npm install --save bootstrap@3 or npm install --save bootstrap
+(Structuring folder with feature)Creating structured
+folder(folder within folder) using following command: 					          ng g c recipes/recipe-list
+Removing git from workspace using setting: 						                    @id:git.enabled git
+Project level config file:								                                angular.json
+Dependency config file:									                                  package.json
+Files are bundled through module bundler:						                      webpack
+
+
+
+
+
+Angular Framework
+Bootstrap:			                  Advance CSS Framework
+CSS:  				                    Styling language
+OOPS
+Component:			                  Simple typescript class
+
+
+
+
